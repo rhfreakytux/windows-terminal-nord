@@ -1,0 +1,32 @@
+{
+  "profiles": [],
+  "schemes": [
+    {
+      "name": "Nord",
+
+      "foreground": "#D8DEE9",
+      "background": "#0B1015",
+
+      "selectionBackground": "#434C5E",
+      "cursorColor": "#81A1C1",
+
+      "black": "#3B4252",
+      "red": "#BF616A",
+      "green": "#A3BE8C",
+      "yellow": "#EBCB8B",
+      "blue": "#5E81AC",
+      "purple": "#B48EAD",
+      "cyan": "#88C0D0",
+      "white": "#E5E9F0",
+
+      "brightBlack": "#4C566A",
+      "brightRed": "#BF616A",
+      "brightGreen": "#A3BE8C",
+      "brightYellow": "#EBCB8B",
+      "brightBlue": "#5E81AC",
+      "brightPurple": "#B48EAD",
+      "brightCyan": "#8FBCBB",
+      "brightWhite": "#ECEFF4"
+    }
+  ]
+}
