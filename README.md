@@ -1,5 +1,5 @@
 # nord-windows-terminal
-![screenshot](screenshot.png)
+![screenshot](cover.png)
 <p align=center>Nord Theme for Windows Terminal with more contrast dark background.</p>
 
 ## Install
